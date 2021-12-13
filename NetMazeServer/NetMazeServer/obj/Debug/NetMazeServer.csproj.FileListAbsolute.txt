@@ -1,0 +1,17 @@
+C:\Moje Data\Projekty\NetMazeServer\NetMazeServer\bin\Debug\NetMazeServer.exe
+C:\Moje Data\Projekty\NetMazeServer\NetMazeServer\bin\Debug\NetMazeServer.pdb
+C:\Moje Data\Projekty\NetMazeServer\NetMazeServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Moje Data\Projekty\NetMazeServer\NetMazeServer\obj\Debug\NetMazeServer.Form1.resources
+C:\Moje Data\Projekty\NetMazeServer\NetMazeServer\obj\Debug\NetMazeServer.Properties.Resources.resources
+C:\Moje Data\Projekty\NetMazeServer\NetMazeServer\obj\Debug\NetMazeServer.csproj.GenerateResource.Cache
+C:\Moje Data\Projekty\NetMazeServer\NetMazeServer\obj\Debug\NetMazeServer.exe
+C:\Moje Data\Projekty\NetMazeServer\NetMazeServer\obj\Debug\NetMazeServer.pdb
+C:\Users\Petr\Disk Google\temp\NetMazeServer\NetMazeServer\bin\Debug\NetMazeServer.exe
+C:\Users\Petr\Disk Google\temp\NetMazeServer\NetMazeServer\bin\Debug\NetMazeServer.pdb
+C:\Users\Petr\Disk Google\temp\NetMazeServer\NetMazeServer\obj\Debug\NetMazeServer.csprojAssemblyReference.cache
+C:\Users\Petr\Disk Google\temp\NetMazeServer\NetMazeServer\obj\Debug\NetMazeServer.Form1.resources
+C:\Users\Petr\Disk Google\temp\NetMazeServer\NetMazeServer\obj\Debug\NetMazeServer.Properties.Resources.resources
+C:\Users\Petr\Disk Google\temp\NetMazeServer\NetMazeServer\obj\Debug\NetMazeServer.csproj.GenerateResource.cache
+C:\Users\Petr\Disk Google\temp\NetMazeServer\NetMazeServer\obj\Debug\NetMazeServer.csproj.CoreCompileInputs.cache
+C:\Users\Petr\Disk Google\temp\NetMazeServer\NetMazeServer\obj\Debug\NetMazeServer.exe
+C:\Users\Petr\Disk Google\temp\NetMazeServer\NetMazeServer\obj\Debug\NetMazeServer.pdb
