@@ -1,0 +1,34 @@
+třída: player, třída: player comunication,
+			smer, metoda pohni se(krok)
+
+metoda zjistuje jestli prosel krok, jinak zmen smer pohybu
+
+
+PLAYER COMUNICATION - nastavim pripojim na server atd...
+
+v PLAYER je pouze pohni, krok a jine pohyby s hracem.
+
+STRATEGIE ? 
+
+First, go into one direction, until you hit a wall.
+Set your current direction, so that the wall is at your right side.
+Follow your current direction (don't forget to delete your SomeDude-trace) until either
+You've found the exit.
+There is no wall at your right side: In this case, turn right and go one step forward.
+Or, there is a wall just in front of you. In this case, turn left until the way ahead of you is free
+
+
+Dostat se na souřadnici (5,5) ----> chodit do prostoru!
+
+
+Příkaz číslo 3 ---> vrátí (x,y) adresu cíle!
+
+
+1)	Strategie: 	1) depth-first search
+			2) breadth-first search
+
+2) 	Trémaux's algorithm
+
+3)	A* (A Star) Search Algorithm
+
+4)	Dijkstra’s Shortest Path Algorithm (https://en.wikipedia.org/wiki/Dijkstra's_algorithm#Using_a_priority_queue)
